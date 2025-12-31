@@ -127,17 +127,12 @@ const abdulAliSawan = {
   <!-- Productive Time -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulalisawan&theme=github_dark&utcOffset=6" alt="Productive Time" />
   
-  <!-- GitHub Trophies -->
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
 
 ---
 
