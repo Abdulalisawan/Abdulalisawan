@@ -93,24 +93,36 @@ const abdulAliSawan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Abdulalisawan&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="Abdul Ali Sawan's GitHub Stats" />
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulalisawan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Abdul Ali Sawan's Streak Stats" />
+  <!-- GitHub Stats Card - Alternative API -->
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdulalisawan&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Abdul Ali Sawan's GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Abdulalisawan&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=c9d1d9" alt="Abdul Ali Sawan's Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulalisawan&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,roff" alt="Abdul Ali Sawan's Top Languages" />
   
+  <!-- Top Languages Card - Alternative API -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdulalisawan&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,roff" alt="Abdul Ali Sawan's Top Languages" />
+  
+  <!-- Contribution Stats -->
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Abdulalisawan&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Abdul Ali Sawan's Contribution Stats" />
 </div>
 
 <div align="center">
+  
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulalisawan&custom_title=Abdul%20Ali%20Sawan's%20Contribution%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=c9d1d9&area_color=38bdf8&title_color=38bdf8&area=true&hide_border=true" alt="Abdul Ali Sawan's Contribution Graph" />
 </div>
 
 ---
 
+## 🏆 GitHub Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -240,7 +252,29 @@ I'm always interested in discussing:
   <sub>Last updated: Automatically via GitHub Actions • Made with ❤️ and lots of ☕</sub>
 </div>
 
+---
 
+## 📌 How to Use This Profile
 
+**If you're viewing this and want something similar:**
+
+1. Fork this as your `username/username` repository
+2. Replace `Abdulalisawan` with your GitHub username in all URLs
+3. Update personal information (email, LinkedIn, location)
+4. Customize colors by changing `38bdf8` to your preferred hex code
+5. Add your timezone offset in the productive-time card (currently `+6` for Dhaka)
+
+**Pro Tips:**
+- Stats update automatically when you push to GitHub
+- For private repo stats, generate a [GitHub token](https://github.com/settings/tokens) and add `&count_private=true`
+- Customize themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
+
+---
+
+<div align="center">
+  
+**"Building software that stays fast as it scales."**
+
+*Thank you for visiting! Have a great day!* 😊
 
 </div>
