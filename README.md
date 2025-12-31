@@ -1,16 +1,7 @@
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Ali+Sawan;Full+Stack+MERN+Developer;Performance-Focused+Web+Engineer;Building+Fast+%26+Scalable+Applications)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect
-    &height=180
-    &text=Abdul%20Ali%20Sawan
-    &fontSize=38
-    &fontAlignY=50
-    &color=0:020617,100:0f172a
-    &fontColor=38bdf8
-    &animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:0f172a&height=250&section=header&text=Building+Scalable+Web+Apps&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Explore+my+projects+below&descSize=20&descAlignY=65" alt="Soft Banner" width="100%" />
 </div>
 
 <p align="center">
