@@ -1,7 +1,7 @@
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Ali+Sawan;Full+Stack+MERN+Developer;Performance-Focused+Web+Engineer;Building+Fast+%26+Scalable+Applications)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:0f172a&height=250&section=header&text=Building+Scalable+Web+Apps&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Explore+my+projects+below&descSize=20&descAlignY=65" alt="Soft Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=200&section=header&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <p align="center">
@@ -14,16 +14,9 @@
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-```js
-const abdulAliSawan = {
-  role: "Full Stack MERN Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  currentlyLearning: ["Next.js", "Performance Optimization"],
-  techStack: ["JavaScript", "React", "Node.js", "MongoDB", "Tailwind CSS"],
-  focus: "Building clean, scalable web applications"
-};
-
+I’m Abdul Ali Sawan, a Full Stack MERN Developer based in Dhaka, Bangladesh.  
+I build fast, scalable, and maintainable web applications using modern web technologies.  
+Currently, I’m focusing on Next.js and performance-focused frontend development while strengthening backend architecture.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -32,9 +25,11 @@ const abdulAliSawan = {
 - 🔨 Building **production-ready MERN stack applications**
 - ⚡ Mastering **Next.js 14+** with App Router & Server Components
 - 🎨 Crafting **pixel-perfect, responsive, accessible UIs**
-- 🚀 Optimizing for **Core Web Vitals & Performance** 
+- 🚀 Optimizing for **Core Web Vitals & Performance** (97+ Lighthouse scores)
+- 📚 Deep diving into **System Design & Scalable Architecture**
 - 🧪 Writing **clean, testable, maintainable code** with best practices
-- 💡 Sharing knowledge through **technical writing 
+- 🌱 Contributing to **open source projects**
+- 💡 Sharing knowledge through **technical writing & mentoring**
 
 ---
 
@@ -88,9 +83,7 @@ const abdulAliSawan = {
   <!-- GitHub Stats using Profile Summary Cards -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulalisawan&theme=github_dark" alt="GitHub Stats" />
   
-  <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Abdulalisawan&theme=dark&hide_border=true&stroke=0000&background=161B22&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=c9d1d9" alt="Streak Stats" />
-</div>
+
 
 <br/>
 
@@ -111,13 +104,10 @@ const abdulAliSawan = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulalisawan&theme=github_dark&utcOffset=6" alt="Productive Time" />
   
 
-</div>
 
 ---
 
 
-
----
 
 ## 📈 Contribution Metrics
 
