@@ -25,11 +25,9 @@ Currently, I’m focusing on Next.js and performance-focused frontend developmen
 - 🔨 Building **production-ready MERN stack applications**
 - ⚡ Mastering **Next.js 14+** with App Router & Server Components
 - 🎨 Crafting **pixel-perfect, responsive, accessible UIs**
-- 🚀 Optimizing for **Core Web Vitals & Performance** (97+ Lighthouse scores)
-- 📚 Deep diving into **System Design & Scalable Architecture**
+- 🚀 Optimizing for **Core Web Vitals & Performance** 
 - 🧪 Writing **clean, testable, maintainable code** with best practices
-- 🌱 Contributing to **open source projects**
-- 💡 Sharing knowledge through **technical writing & mentoring**
+- 💡 Sharing knowledge through **technical writing 
 
 ---
 
