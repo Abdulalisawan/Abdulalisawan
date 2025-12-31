@@ -15,30 +15,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```typescript
+```js
 const abdulAliSawan = {
-    role: "Full Stack MERN Developer",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    currentFocus: ["Next.js", "Performance Optimization", "System Design"],
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Material-UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            databases: ["MongoDB", "Firebase", "MySQL"]
-        },
-        devOps: ["Git", "GitHub Actions", "Vercel", "Netlify"],
-        tools: ["Figma", "VS Code", "Postman", "Webpack"]
-    },
-    architecture: ["Single Page Applications", "RESTful APIs", "Microservices"],
-    currentlyLearning: "Advanced Next.js Patterns & System Design",
-    coreValues: ["Clean Code", "Performance", "Scalability", "User Experience"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+  role: "Full Stack MERN Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  currentlyLearning: ["Next.js", "Performance Optimization"],
+  techStack: ["JavaScript", "React", "Node.js", "MongoDB", "Tailwind CSS"],
+  focus: "Building clean, scalable web applications"
 };
-```
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
