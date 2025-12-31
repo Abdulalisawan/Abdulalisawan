@@ -94,26 +94,41 @@ const abdulAliSawan = {
 
 <div align="center">
   
-  <!-- GitHub Stats Card - Alternative API -->
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdulalisawan&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Abdul Ali Sawan's GitHub Stats" />
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulalisawan&theme=github_dark" alt="Profile Summary" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats using Profile Summary Cards -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulalisawan&theme=github_dark" alt="GitHub Stats" />
   
   <!-- GitHub Streak Stats -->
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Abdulalisawan&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=c9d1d9" alt="Abdul Ali Sawan's Streak Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Abdulalisawan&theme=dark&hide_border=true&stroke=0000&background=161B22&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=c9d1d9" alt="Streak Stats" />
 </div>
+
+<br/>
 
 <div align="center">
   
-  <!-- Top Languages Card - Alternative API -->
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdulalisawan&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,roff" alt="Abdul Ali Sawan's Top Languages" />
+  <!-- Top Languages by Repo -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulalisawan&theme=github_dark" alt="Top Languages by Repo" />
   
-  <!-- Contribution Stats -->
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Abdulalisawan&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Abdul Ali Sawan's Contribution Stats" />
+  <!-- Top Languages by Commit -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulalisawan&theme=github_dark" alt="Top Languages by Commit" />
 </div>
+
+<br/>
 
 <div align="center">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulalisawan&custom_title=Abdul%20Ali%20Sawan's%20Contribution%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=c9d1d9&area_color=38bdf8&title_color=38bdf8&area=true&hide_border=true" alt="Abdul Ali Sawan's Contribution Graph" />
+  <!-- Productive Time -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulalisawan&theme=github_dark&utcOffset=6" alt="Productive Time" />
+  
+  <!-- GitHub Trophies -->
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -121,7 +136,7 @@ const abdulAliSawan = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abdulalisawan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -129,14 +144,12 @@ const abdulAliSawan = {
 ## 📈 Contribution Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulalisawan&theme=github_dark" alt="Profile Summary" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulalisawan&custom_title=Contribution%20Activity%20Graph&bg_color=161B22&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&title_color=38bdf8&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulalisawan&theme=github_dark" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulalisawan&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulalisawan&theme=github_dark&utcOffset=6" alt="Productive Time" />
-</div>
+<br/>
 
 ---
 
