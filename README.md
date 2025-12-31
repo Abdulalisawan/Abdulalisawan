@@ -1,7 +1,7 @@
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Ali+Sawan;Full+Stack+MERN+Developer;Performance-Focused+Web+Engineer;Building+Fast+%26+Scalable+Applications)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=200&section=header&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=100%&height=200&lines=Welcome+to+My+Profile;Abdul+Ali+Sawan;Let's+Build+Something+Amazing" alt="Typing Banner" />
 </div>
 
 <p align="center">
