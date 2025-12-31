@@ -1,7 +1,7 @@
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Ali+Sawan;Full+Stack+MERN+Developer;Performance-Focused+Web+Engineer;Building+Fast+%26+Scalable+Applications)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38bdf8,100:0f172a&height=250&section=header&text=Building+Scalable+Web+Apps&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Explore+my+projects+below&descSize=20&descAlignY=65" alt="Soft Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:38bdf8,100:0f172a&height=250&section=header&text=Abdul%20Ali%20Sawan&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=fadeIn" alt="Slice Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -47,11 +47,9 @@ const abdulAliSawan = {
 - 🔨 Building **production-ready MERN stack applications**
 - ⚡ Mastering **Next.js 14+** with App Router & Server Components
 - 🎨 Crafting **pixel-perfect, responsive, accessible UIs**
-- 🚀 Optimizing for **Core Web Vitals & Performance** (97+ Lighthouse scores)
-- 📚 Deep diving into **System Design & Scalable Architecture**
+- 🚀 Optimizing for **Core Web Vitals & Performance** 
 - 🧪 Writing **clean, testable, maintainable code** with best practices
-- 🌱 Contributing to **open source projects**
-- 💡 Sharing knowledge through **technical writing & mentoring**
+- 💡 Sharing knowledge through **technical writing 
 
 ---
 
