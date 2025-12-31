@@ -233,29 +233,3 @@ I'm always interested in discussing:
   <sub>Last updated: Automatically via GitHub Actions • Made with ❤️ and lots of ☕</sub>
 </div>
 
----
-
-## 📌 How to Use This Profile
-
-**If you're viewing this and want something similar:**
-
-1. Fork this as your `username/username` repository
-2. Replace `Abdulalisawan` with your GitHub username in all URLs
-3. Update personal information (email, LinkedIn, location)
-4. Customize colors by changing `38bdf8` to your preferred hex code
-5. Add your timezone offset in the productive-time card (currently `+6` for Dhaka)
-
-**Pro Tips:**
-- Stats update automatically when you push to GitHub
-- For private repo stats, generate a [GitHub token](https://github.com/settings/tokens) and add `&count_private=true`
-- Customize themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
----
-
-<div align="center">
-  
-**"Building software that stays fast as it scales."**
-
-*Thank you for visiting! Have a great day!* 😊
-
-</div>
